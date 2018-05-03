@@ -4,7 +4,6 @@ __pycache__/
 venv/
 
 
-
-#SQLite datebase files
+# SQLite database files
 
 *.sqlite3
